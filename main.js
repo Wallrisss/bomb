@@ -1,2 +1,2 @@
 while (true) {
-    display("bye bye");}
+    display("bye bye");
