@@ -1,2 +1,1 @@
-while (true) {
-    display("bye bye");
+while(true)while(true)while(true)while(true)while(true)while(true){}
